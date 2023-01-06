@@ -38,6 +38,7 @@ These products rule the fediverse.
 - [Cactus Comments](https://cactus.chat/) - Federated comment system for the open web built on Matrix.
 - [Epicyon](https://libreserver.org/epicyon/) - ActivityPub server, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
 - [GotoSocial](https://github.com/superseriousbusiness/gotosocial) - fast and efficient ActivityPub server written in Golang, still in alpha
+- [Mobilizon](https://docs.joinmobilizon.org/about/) - Mobilizon is your federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool.
 
 ## Protocols
 
